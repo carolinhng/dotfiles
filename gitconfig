@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api user/emails | jq -r '.[].email'
+	email = caroline.ng.pro@hotmail.com
 	name = Caroline Nguyen
